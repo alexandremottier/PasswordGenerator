@@ -1,6 +1,6 @@
 # Arrays definition
-$minuscule = @('alpha','bravo','charlie','delta','echo','foxtrot','golf','hotel','india','juliette','kilo','lima','november','oscar','papa','quebec','romeo','sierra','tango','uniform','yankee','zulu')
-$majuscule = @('ALPHA','BRAVO','CHARLIE','DELTA','ECHO','FOXTROT','GOLF','HOTEL','INDIA','JULIETTE','KILO','LIMA','NOVEMBER','OSCAR','PAPA','QUEBEC','ROMEO','SIERRA','TANGO','UNIFORM','YANKEE','ZULU')
+$minuscule = @('alpha','bravo','charlie','delta','echo','foxtrot','golf','hotel','india','juliette','kilo','lima','november','oscar','papa','quebec','romeo','sierra','tango','uniform','victor','whisky','yankee','zulu')
+$majuscule = @('ALPHA','BRAVO','CHARLIE','DELTA','ECHO','FOXTROT','GOLF','HOTEL','INDIA','JULIETTE','KILO','LIMA','NOVEMBER','OSCAR','PAPA','QUEBEC','ROMEO','SIERRA','TANGO','UNIFORM','VICTOR','WHISKY','YANKEE','ZULU')
 $symbol = @('@','+','-','&')
 
 # To repeat permanently
