@@ -6,6 +6,7 @@ $symbol = @('@','+','-','&')
 # To repeat permanently
 $boucle = 0
 
+# Password generation
 while($boucle -ne 1)
 {
     # Select random object
